@@ -3,6 +3,7 @@ from .views import TaskList, TaskDetail, TaskCreate, TaskUpdate, TaskDelete, Cus
 from django.contrib.auth.views import LogoutView
 from django.urls import reverse_lazy
 from . import views
+
 app_name = 'base'
 
 urlpatterns = [
