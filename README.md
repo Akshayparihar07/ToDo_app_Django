@@ -17,7 +17,9 @@ This is a comprehensive Todo list application built with Django, allowing users 
 ![.](assets/update.png)
 ![.](assets/delete.png)
 - ### Mark tasks as completed or pending.
-- ### Filter tasks by completion status or due date.
+![.](assets/complete.png)
+- ### Keep the Count of incomplete tasks
+![.](assets/count.png)
 - ### Responsive design for easy use on desktop and mobile devices.
 
 ## Technologies Used
