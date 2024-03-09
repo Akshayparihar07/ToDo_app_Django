@@ -56,7 +56,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new pull request.
 
-## Author: [Akshay Parihar] (https://github.com/Akshayparihar07)
+## Author
+[Akshay Parihar] (https://github.com/Akshayparihar07)
 
 
 
