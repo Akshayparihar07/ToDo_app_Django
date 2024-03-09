@@ -1,6 +1,7 @@
 # To Do List Application
 
-This is a simple Todo list application built with Django, allowing users to manage their tasks efficiently.
+This is a comprehensive Todo list application built with Django, allowing users to manage their tasks efficiently.
+[.](assets/app.png)
 
 ## Table of Contents
 - [Features](#features)
