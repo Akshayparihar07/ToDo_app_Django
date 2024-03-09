@@ -52,10 +52,10 @@ This is a comprehensive Todo list application built with Django, allowing users 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
+2. Create a new branch `git checkout -b feature-branch`
 3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
+4. Commit your changes `git commit -am 'Add new feature'`
+5. Push to the branch `git push origin feature-branch`
 6. Create a new pull request.
 
 ## Author: [Akshay Parihar](https://github.com/Akshayparihar07)
