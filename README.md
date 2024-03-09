@@ -1,7 +1,7 @@
 # To Do List Application
 
 This is a comprehensive Todo list application built with Django, allowing users to manage their tasks efficiently.
-[.](assets/app.png)
+![.](assets/app.png)
 
 ## Table of Contents
 - [Features](#features)
@@ -10,11 +10,15 @@ This is a comprehensive Todo list application built with Django, allowing users 
 - [Usage](#usage)
 
 ## Features
-### User authentication: Users can sign up, log in, and log out.
-### Create, update, and delete tasks.
-### Mark tasks as completed or pending.
-### Filter tasks by completion status or due date.
-### Responsive design for easy use on desktop and mobile devices.
+- ### User authentication: Users can sign up, log in, and log out.
+![.](assets/register.png)
+![.](assets/login.png)
+- ### Create, update, and delete tasks.
+![.](assets/update.png)
+![.](assets/delete.png)
+- ### Mark tasks as completed or pending.
+- ### Filter tasks by completion status or due date.
+- ### Responsive design for easy use on desktop and mobile devices.
 
 ## Technologies Used
 
