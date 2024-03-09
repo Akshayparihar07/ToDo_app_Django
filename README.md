@@ -24,9 +24,7 @@ This is a comprehensive Todo list application built with Django, allowing users 
 
 - **Django:** Web framework for building the backend.
 - **HTML/CSS:** Frontend design and styling.
-- **JavaScript:** Frontend interactivity.
 - **SQLite:** Database for storing tasks and user information.
-- **Bootstrap:** Frontend framework for responsive design.
 
 ## Installation
 
