@@ -35,7 +35,7 @@ This is a comprehensive Todo list application built with Django, allowing users 
 3. Install dependencies: `pip install -r requirements.txt`
 4. Apply migrations: `python manage.py migrate`
 5. Run the development server: `python manage.py runserver`
-6. Access the application in your web browser at http://localhost:8000/
+6. Access the application in your web browser at `http://localhost:8000/`
 
 ## Usage
 
@@ -56,8 +56,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new pull request.
 
-## Author
-[Akshay Parihar] (https://github.com/Akshayparihar07)
+## Author: [Akshay Parihar](https://github.com/Akshayparihar07)
 
 
 
